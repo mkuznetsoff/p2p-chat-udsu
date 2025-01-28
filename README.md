@@ -4,3 +4,4 @@ A secure and anonymous P2P messaging app with encryption and cross-platform supp
 ![Демо](demo2.png)
 ![Демо](demo1.png)
 ![Демо](demo3.png)
+![Блоксхема-фронтенд](image.png)
